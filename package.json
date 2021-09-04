@@ -1,0 +1,24 @@
+{
+  "name": "unit-tests-and-tdd-with-js",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de js com tdd na pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-Libero/unit-tests-and-tdd-with-js.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "William Líbero <williamliberos@gmail.com> (https://www.williamlibero.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/William-Libero/unit-tests-and-tdd-with-js/issues"
+  },
+  "homepage": "https://github.com/William-Libero/unit-tests-and-tdd-with-js#readme"
+}
