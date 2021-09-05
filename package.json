@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/William-Libero/unit-tests-and-tdd-with-js/issues"
   },
-  "homepage": "https://github.com/William-Libero/unit-tests-and-tdd-with-js#readme"
+  "homepage": "https://github.com/William-Libero/unit-tests-and-tdd-with-js#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.30.0",
+    "@typescript-eslint/parser": "^4.30.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
 }
