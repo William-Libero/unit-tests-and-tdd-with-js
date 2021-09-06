@@ -1,3 +1,7 @@
-a = 1;
+const a = 1;
 
-b=1;
+function concatConst(constToConcat) {
+  return constToConcat + 1;
+}
+
+concatConst(a);
